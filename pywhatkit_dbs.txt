@@ -1,0 +1,11 @@
+--------------------
+Date: 15:7:2021
+Time: 0:0
+Phone number: +918535085731
+Message: hy this message is from python
+--------------------
+Date: 17:7:2021
+Time: 0:0
+Phone number: +918535085731
+Message: hy this message is from python
+--------------------
